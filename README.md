@@ -35,12 +35,11 @@
 
 ## 🛠 사용 기술
 
-- 자연어처리 라이브러리:
-- 형태소 분석기:
+- 자연어처리 라이브러리: transformers
+- 파라미터 튜닝 라이브러리: PEFT(Prefix-Tuning)
 - 언어 생성 모델: KoGPT-2
 - 데이터 전처리 및 시각화 도구: google colab
-- 음운론적 처리 로직 설계
-- Python, PyTorch / TensorFlow
+- Python, PyTorch
 
 ---
 
