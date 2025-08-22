@@ -8,10 +8,10 @@
 
 ## About-Us
 
-| Name       | Major                         |
-| ---------- | ----------------------------- |
-| **이민기** | 세종대학교 데이터사이언스학과 |
-| **남경민** | 가천대학교 인공지능학과       |
+| Profile                                                                               | Name                                          | Major                         |
+| ------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------- |
+| <img src="https://github.com/sejong-mingi.png" width="80" style="border-radius:50%;"> | [**이민기**](https://github.com/sejong-mingi) | 세종대학교 데이터사이언스학과 |
+| <img src="https://github.com/NamKyeongMin.png" width="80" style="border-radius:50%;"> | [**남경민**](https://github.com/NamKyeongMin) | 가천대학교 인공지능학과       |
 
 ---
 
